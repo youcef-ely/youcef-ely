@@ -18,7 +18,7 @@ Hi there! I’m **Youssef Lyousfi**, a passionate Data Scientist with a strong b
 ### **Programming Languages**
 ![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
 ![Java](https://img.shields.io/badge/Java-8-orange?logo=java)
-![SQL](https://img.shields.io/badge/SQL-Relational-database-blue?logo=sql)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 
 ### **Data Science & Machine Learning**
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-v1.0-blue?logo=scikit-learn)
