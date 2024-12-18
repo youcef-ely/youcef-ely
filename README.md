@@ -27,5 +27,5 @@ Implemented microservices architecture with Spring Boot, MongoDB, and API Gatewa
 - 📰 Published research: *"Towards an Intelligent Model for Dysgraphia Evolution Tracking"*.
 
 ## 📫 Connect with Me
-- LinkedIn: [Youssef Lyousfi](https://www.linkedin.com/in/youssef-lyousfi)
+- LinkedIn: [Youssef Lyousfi](https://www.linkedin.com/in/youssef-lyousfi-67b699190/)
 - Email: youssef.lyousfi@example.com
