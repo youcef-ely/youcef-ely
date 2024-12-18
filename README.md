@@ -66,6 +66,7 @@ Implemented a scalable microservices architecture for an e-commerce platform.
 - **Published Research:** Presented at the 28th International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES 2024).
 - **Certifications:**
   - Dataiku ML Practitioner.
+  - Big Data Engineer - Mastery Award 2021
 - **Professional Impact:** Delivered solutions for real-world problems in industries like road safety and e-commerce.
 
 ---
