@@ -8,7 +8,7 @@ Hi there! I’m **Youssef Lyousfi**, a passionate Data Scientist with a strong b
 
 - 🎓 **Master’s in Data Science & Machine Learning** (CY Cergy Paris Université - ENSEA).
 - 🏅 **Published Researcher** on AI-based dysgraphia detection.
-- 💼 **Former Data Scientist** at NextRoad.
+- 💼 **Former Data Scientist** at NextRoad, ETIS Research Lab.
 - 🌐 Constant learner and open-source contributor.
 
 ---
@@ -18,7 +18,7 @@ Hi there! I’m **Youssef Lyousfi**, a passionate Data Scientist with a strong b
 ### **Programming Languages**
 ![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
 ![Java](https://img.shields.io/badge/Java-8-orange?logo=java)
-![SQL](https://img.shields.io/badge/SQL-Relational-database-blue?logo=postgresql)
+![SQL](https://img.shields.io/badge/SQL-Relational-database-blue?logo=sql)
 
 ### **Data Science & Machine Learning**
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-v1.0-blue?logo=scikit-learn)
