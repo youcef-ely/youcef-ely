@@ -77,11 +77,11 @@ Built a photogrammetry-based 3D visualization of construction sites.
 
 ## 🔐 GitHub Stats & Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YoussefLyousfi&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=youcef-ely&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefLyousfi&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=youcef-ely&layout=compact&theme=radical)
 
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=YoussefLyousfi&theme=dracula)
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=youcef-ely&theme=dracula)
 
 ---
 
@@ -89,7 +89,6 @@ Built a photogrammetry-based 3D visualization of construction sites.
 
 - **LinkedIn:** [Youssef Lyousfi](https://www.linkedin.com/in/youssef-lyousfi)
 - **Email:** youssef.lyousfi@example.com
-- **Portfolio:** [Personal Website](https://your-website.com)
 
 ---
 
