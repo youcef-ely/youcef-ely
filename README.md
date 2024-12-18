@@ -1,7 +1,5 @@
 # Welcome to My GitHub Profile ✨
 
-![Profile Banner](https://github.com/youcef-ely.png)
-
 ## About Me
 
 Hi there! I’m **Youssef Lyousfi**, a passionate Data Scientist with a strong background in machine learning, software engineering, and academic research. My journey spans impactful projects, scientific contributions, and professional experiences that blend innovation with practical problem-solving.
