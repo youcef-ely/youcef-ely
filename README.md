@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile ✨
 
-![Profile Banner](./banner.png)
+![Profile Banner](https://github.com/youcef-ely.png)
 
 ## About Me
 
@@ -38,31 +38,26 @@ Hi there! I’m **Youssef Lyousfi**, a passionate Data Scientist with a strong b
 
 ## 🚀 Projects
 
-### [🔗 Dysgraphia Detection](https://link-to-your-research)
+### [🔗 Dysgraphia Detection](https://hal.science/hal-04593939/)
 Developed an intelligent model for tracking dysgraphia evolution, presented at KES 2024.
 
 - Modeled a unique dataset to track dysgraphia progression.
 - Built machine learning models (SVM, RandomForest) and used a genetic algorithm for optimization.
 - Co-authored a scientific paper: **"Towards an Intelligent Model for Dysgraphia Evolution Tracking"**.
 
-### [🔗 RAG with ChromaDB](https://github.com/YoussefLyousfi/RAG-Tutorial)
+### [🔗 RAG with ChromaDB](https://github.com/youcef-ely/rag_tutorial)
 A tutorial project implementing Retrieval-Augmented Generation (RAG) with ChromaDB for efficient querying.
 
 - Focused on creating a robust pipeline for question-answering systems.
 - Integrated ChromaDB for high-performance vector search.
 
-### [🔗 E-Commerce Microservices](https://link-to-project)
+### [🔗 E-Commerce Microservices](https://github.com/zakariamejdoul/ecommerce-microservices)
 Implemented a scalable microservices architecture for an e-commerce platform.
 
 - Developed services using **Spring Boot** with Circuit Breaker and Zuul API Gateway.
 - Utilized database-per-service strategies (MongoDB, MySQL, HBase).
 - Ensured secure API communication through centralized authentication.
 
-### [🔗 3D Construction Site Scene](https://link-to-project)
-Built a photogrammetry-based 3D visualization of construction sites.
-
-- Processed 5K images for semantic segmentation and scene reconstruction.
-- Integrated results into a GPU environment for real-time visualization.
 
 ---
 
