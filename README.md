@@ -77,8 +77,6 @@ Implemented a scalable microservices architecture for an e-commerce platform.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=youcef-ely&layout=compact&theme=radical)
 
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=youcef-ely&theme=dracula)
-
 ---
 
 ## 📞 Connect with Me
